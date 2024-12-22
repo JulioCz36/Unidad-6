@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Julio\\Documents\\TDPV\\1 - Cuatri_2\\MAVI\\Practicas\\Unidad 6\\Space\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A456E43-F938-40B5-BA26-055F31A98542}|Space\\Space.vcxproj|C:\\Users\\Julio\\Documents\\TDPV\\1 - Cuatri_2\\MAVI\\Practicas\\Unidad 6\\Space\\Space\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A456E43-F938-40B5-BA26-055F31A98542}|Space\\Space.vcxproj|solutionrelative:Space\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Julio\\Documents\\TDPV\\1 - Cuatri_2\\MAVI\\Practicas\\Unidad 6\\Space\\Space\\main.cpp",
+              "RelativeDocumentMoniker": "Space\\main.cpp",
+              "ToolTip": "C:\\Users\\Julio\\Documents\\TDPV\\1 - Cuatri_2\\MAVI\\Practicas\\Unidad 6\\Space\\Space\\main.cpp",
+              "RelativeToolTip": "Space\\main.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-21T16:28:43.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
